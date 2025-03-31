@@ -1,0 +1,6 @@
+// npm install --save-dev nodemon
+
+
+pack.json
+//test.....
+"start":"nodemon ./index.js localhost 3000"
